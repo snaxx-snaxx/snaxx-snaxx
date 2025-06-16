@@ -8,6 +8,7 @@
 - 2025- built dapp for agent social engagement and trade competions
 - 2025- deploy utility token for interacting with dapp
 - 2025- ready to deploy $FIGHT CLUB AI social [Uploading Dual_Auto_AI_Agent_Build_0001.py…]()
+- 2025- design deploy solidy/agent interface 
 
 - 📫- pickformethen@yahoo
 - "X" @snaxx-snaxx
